@@ -22,6 +22,7 @@
 - global : Utilizado em toda parte do projeto
 - hooks : Recursos de state e ciclo de vida 
 - pages: Telas do seu app
+- rotes : Sistema de rotas
 - services: Integrações
 - styles:  Estilização em css
 
@@ -37,6 +38,7 @@
 - useForm.js : useform pronto para ser usado em qualquer projeto 
    #### - 🎥 [Como criar e usar useForme](https://www.youtube.com/watch?v=8Kn-Xd8mESc)
 - app.js : tem que ter para a aplicação em React funcionar
+- /rotes : Rotas para mudar de pagina em React
 - /services index.js : requisições feita por axios 
 - /styles globals.css Estilização em css
 
