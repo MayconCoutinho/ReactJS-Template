@@ -38,7 +38,7 @@
 - useForm.js : useform pronto para ser usado em qualquer projeto 
    #### - 🎥 [Como criar e usar useForme](https://www.youtube.com/watch?v=8Kn-Xd8mESc)
 - app.js : tem que ter para a aplicação em React funcionar
-- /rotes : Rotas para mudar de pagina em React
+- /routes : Rotas para mudar de pagina em React
 - /services index.js : requisições feita por axios 
 - /styles globals.css Estilização em css
 
