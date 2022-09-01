@@ -20,7 +20,7 @@
 - services: Integrações
 - styles:  Estilização em css
 
-![image](https://user-images.githubusercontent.com/60453269/187967903-e4592bad-557a-408c-82aa-42638298f763.png)
+![image](https://user-images.githubusercontent.com/60453269/187975792-008c1443-4f79-40d9-9c46-952d922aec5e.png)
 
 # 📂 Oque tem dentro das pastas
 
