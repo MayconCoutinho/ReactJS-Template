@@ -16,7 +16,6 @@
 - global : Utilizado em toda parte do projeto
 - hooks : Recursos de state e ciclo de vida 
 - pages: Telas do seu app
-- scss : Estilização em sass 
 - services: Integrações
 - styles:  Estilização em css
 
@@ -30,7 +29,7 @@
    #### - 🎥 [Como criar e usar UseContext](https://www.youtube.com/watch?v=jo-IV8i5Gdk&list=LL&index=7)
    
 - useForm.js : useform pronto para ser usado em qualquer projeto 
-- _app.js : tem que ter para a aplicação em Nest.js funcionar
+- app.js : tem que ter para a aplicação em React funcionar
 - index.js : Rota Home do projeto 
 - Home.module.scss : Estilização em sass
 - /services index.js : requisições feita por axios 
