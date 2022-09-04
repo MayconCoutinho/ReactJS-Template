@@ -2,7 +2,6 @@ import React from "react";
 import { Router } from "./routes/Routes"
 import {GlobalProvider} from "../src/global/context/useContext.js"
 
-
 function App() {
   return (
     <>
@@ -12,5 +11,4 @@ function App() {
     </>
   );
 }
-
 export default App;

@@ -1,6 +1,11 @@
 h1{
-
     color: rgb(0, 75, 124);
     text-align: center;
     margin-top: 70px;
+}
+
+.container h3, input, div, botton {
+    color: rgb(0, 75, 124);
+    text-align: center;
+    margin-top: 30px;
 }
