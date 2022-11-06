@@ -1,16 +1,18 @@
 
 <h1 align="center">
-<img width=400 src="https://user-images.githubusercontent.com/60453269/187979107-d430477a-81f2-426b-8a54-37a53099211f.png">
+<img src="https://user-images.githubusercontent.com/60453269/200201779-45446b80-e88e-452e-9b3a-b079799a0267.png">
 </h1>
 
 <br/>
-<h1 align="center">
-      🚩 Iniciando Projeto React.js 
-</h1> 
+
+# 🏆 Objetivo
+
+<p>
+  O objetivo da criação desse projeto é ter uma arquitetura de software simples, eficiente e padrão para se usar no front-end. Geralmente os projetos de front sempre têm as mesmas pastas e  estrutura, sendo assim criei uma pasta para agilizar o processo inicial de criação, padronizando as pastas e importando as principais tecnologias no front-end, como React router e styled components.
+
+</p>
 
 
-
-<br/>
 
 # 🗂 Estrutura do Projeto 
 
@@ -43,3 +45,10 @@
 - /styles globals.css Estilização em css
 
 ![image](https://user-images.githubusercontent.com/60453269/187919371-f502d2f6-9f48-4c72-b9bb-136f425ebe2e.png)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
