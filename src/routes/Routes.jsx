@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HomePage from '../pages/HomePage/HomePage.jsx'
-import ErrorPage from "../pages/ErrorPage/ErrorPage.jsx";
+import ErrorPage from "../pages/ErrorPage/index.jsx";
 import TestePage from "../pages/TestePage/TestePage.jsx";
 
 export const Router = () => {

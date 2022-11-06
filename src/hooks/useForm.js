@@ -10,4 +10,4 @@ export const useForm = (initialState) => {
       setFormValues(initialState)
     }
     return {formValues, onChange, cleanFields} 
-  }
+}

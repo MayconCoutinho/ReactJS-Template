@@ -8,8 +8,7 @@ import { useForm,} from "../../hooks/useForm";
 
 const HomePage = () => {
   const navigate = useNavigate();
-  const { nome } = useContext(GlobalContext)
-  const { setNome } = useContext(GlobalContext)  
+  const { nome, setNome} = useContext(GlobalContext)
   const {formValues, onChange, cleanFields} = useForm({name: ""})
   const EnviarFormulario = (event) => {
       event.preventDefault();
