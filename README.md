@@ -30,6 +30,26 @@
 
 ![image](https://user-images.githubusercontent.com/60453269/187975792-008c1443-4f79-40d9-9c46-952d922aec5e.png)
 
+# 🎣 Todas importações 
+<br/> 
+
+## `Axios` 
+
+```Bash
+npm install axios
+
+```
+<br/> 
+
+## `React Router Dom` 
+
+```Bash
+npm install react-router-dom
+
+```
+<br/> 
+
+
 # 📂 Oque tem dentro das pastas
 
 - BASE_URL.JS : url principal para usar com axios 
