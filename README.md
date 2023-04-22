@@ -69,11 +69,8 @@
 
 <br/>
 
-### 📂 Oque tem dentro das pastas
+<br /> 
 
-<br/>
-
-- [x] - BASE_URL.JS : url principal para usar com axios
 
 <a href="#Sumário"> 📖 Volta ao Sumário </a>
 
