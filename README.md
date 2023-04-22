@@ -93,7 +93,7 @@
 > Caso tenha Git basta da git clone, caso não tenha baixe o projeto completo em dowlon
 
 ```BASH
-git clone https://github.com/MayconCoutinho/Next.js-Template
+git clone https://github.com/MayconCoutinho/ReactJS-Template
 ```
 
 <br /> 
@@ -110,11 +110,10 @@ npm i
 
 ```JSON
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "prepare": "husky install"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   }
 
 ```
@@ -125,11 +124,16 @@ npm i
 
 ```JSON
   "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
-    "next": "12.2.5",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "sass": "^1.54.8"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "styled-components": "^5.3.6",
+    "web-vitals": "^2.1.4"
   }
 
 ```
@@ -143,14 +147,10 @@ npm i
   "devDependencies": {
     "@commitlint/cli": "^17.6.1",
     "@commitlint/config-conventional": "^17.6.1",
-    "eslint": "^8.38.0",
+    "eslint": "^8.39.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-google": "^0.14.0",
-    "eslint-config-next": "12.2.5",
-    "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jsx-a11y": "^6.7.1",
-    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "husky": "^8.0.3",
@@ -170,8 +170,6 @@ npm i
 
 <br /> 
 
-- [ ] ***- Testa todo o código.*** 
-- [ ] ***- Pesquisar o perfil com nome*** 
 - [ ] ***- *** 
 - [x] ***- *** 
 
